@@ -1,8 +1,6 @@
-# soroban-time-vault
-A simple time-locked smart contract on Soroban (Stellar)
 
 # Soroban Time-Vault
-
+A simple time-locked smart contract on Soroban (Stellar)
 A **time-locked smart contract** built on **Soroban**, Stellar’s smart contract platform written in **Rust**.  
 This contract allows users to **lock assets** until a specific **unlock time**, after which they can withdraw safely.  
 
